@@ -52,8 +52,6 @@ XOR
 
 ``encrypted_hex = "59434949495b17594e5c414953574a565f654255486559525b56565f545d5f4700"
 encrypted_bytes = bytes.fromhex(encrypted_hex)
-
-# Try all possible single-byte keys
 for key in range(256):
     decrypted_bytes = bytes([byte ^ key for byte in encrypted_bytes])
     try:

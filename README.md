@@ -95,6 +95,21 @@ and that's i was able to solve for rev
 
 #Web
 
+![image](https://github.com/user-attachments/assets/30cc5b9c-eee0-4fcb-b069-2ccb58df1c3f)
+
+in the description there was Mr Robotss, so what came to my mind is the flag is in robots.txt and i checked it out 
+
+![image](https://github.com/user-attachments/assets/973c12bc-bfb7-4832-9fc2-8caeb281461a)
+
+ yoo got the flag man 
+
+
+
+
+
+
+
+
 
         
 

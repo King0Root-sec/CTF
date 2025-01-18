@@ -50,6 +50,8 @@ i was able to get the flag while using that
 XOR
 ![image](https://github.com/user-attachments/assets/5dde1751-61cf-4432-a0af-7fd540aa4cd8)
 
+i use this python script to get the flag 
+
 ``encrypted_hex = "59434949495b17594e5c414953574a565f654255486559525b56565f545d5f4700"
 encrypted_bytes = bytes.fromhex(encrypted_hex)
 for key in range(256):
@@ -61,7 +63,7 @@ for key in range(256):
         continue``
 
 ![image](https://github.com/user-attachments/assets/8812f06c-1ec4-4f7f-95ef-19096d5257b1)
-i found the flag while i run the python script 
+i found the flag when i run the python script 
 
 STEG
 Blind
@@ -81,7 +83,7 @@ http://securefest.canadacentral.cloudapp.azure.com:8000/files/bc6ae0755c2df6f119
 if you check the image you will see the flag
 that's all i was able to solve on steg 
 
-``Rev``
+Rev
 
 ![image](https://github.com/user-attachments/assets/bae87b1e-812a-4751-8780-93a0a207b066)
 
